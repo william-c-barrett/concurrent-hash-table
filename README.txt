@@ -76,3 +76,7 @@ for the timestamp, and the information on output formatting.
 
 The prompts used to get the results were situation based for the make and build file, ex: 'create a generic build file for this project structure' (screenshot of file structure)
 Additionally, cursor AI was used to update the make and build files created by ChatGPT since it has scope of the project.
+
+ex: "i will provide the sample input and sample log as a .txt file and .log file. Additionally, here is the sample output:
+This document shows the expected stdout output for commands.txt (comprehensive test workload). Make the output formatting match without changing
+any logic."
